@@ -26,5 +26,5 @@ Trabalho com desenvolvimento em Oracle, criando e mantendo aplicações e rotina
 </picture>
 
 ## Contato
-- 💼 LinkedIn: _em breve_
-- 📧 E-mail: _em breve_
+- 💼 LinkedIn: https://www.linkedin.com/in/lucasthierrydias/
+- 📧 E-mail: lucasthierry123456@gmail.com
